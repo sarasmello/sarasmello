@@ -10,7 +10,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sarasmello&bg_color=fdf7fc&color=02735e&line=02735e&point=cf3250&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
-  <a href="www.linkedin.com/in/sarasacrmello"><img src="https://img.icons8.com/?size=100&id=108812&format=png" width="45" height="43"></a>
+  <a href="https://www.linkedin.com/in/sarasacrmello"><img src="https://img.icons8.com/?size=100&id=108812&format=png" width="45" height="43"></a>
   <a href= "mailto:saramello109@gmail.com"><img src="https://img.icons8.com/?size=100&id=nQ4dZIRCI0nW&format=png" width="40" height="40"></a>  
 </div>
 
@@ -34,3 +34,4 @@
   <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fsarasmello&s=40&c=02735e&bg=00000000&no=1&ff=digi&tb=&ta=" /></p> 
 <br>
 </div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D93250&height=90&section=footer"/>
