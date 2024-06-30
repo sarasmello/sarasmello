@@ -13,20 +13,21 @@
   <a href="https://www.linkedin.com/in/sarasacrmello"><img src="https://img.icons8.com/?size=100&id=108812&format=png" width="45" height="43"></a>
   <a href= "mailto:saramello109@gmail.com"><img src="https://img.icons8.com/?size=100&id=nQ4dZIRCI0nW&format=png" width="40" height="40"></a>  
 </div>
-
+https://icons8.com.br/icon/EzPCiQUqWWEa/bootstrap
 <h1 align="center">Main Skills:</h2>
 <div align="center">
   <img src="https://img.icons8.com/?size=100&id=EAUyKy3IwmqM&format=png" width="85" height="85">
   <img src="https://img.icons8.com/?size=100&id=21278&format=png" width="85" height="85">
+  <img src="https://img.icons8.com/?size=100&id=g9mmSxx3SwAI&format=png" width="85" height="85">
   <img src="https://img.icons8.com/?size=100&id=108784&format=png" width="85" height="85">
   <img src="https://img.icons8.com/?size=100&id=13460&format=png" width="85" height="85">
-  <img src="https://img.icons8.com/?size=100&id=7r81vNSlvJe6&format=png&color=000000" width="85" height="85">
-</div>
+  <img src="https://github.com/sarasmello/sarasmello/assets/171968755/72802d66-8283-402e-9dc0-064a7ff09806" width="70" height="70">
 
+</div>
 <h2 align="center">Studying in this moment:</h2>
 <div align="center">
   <img src="https://img.icons8.com/?size=100&id=13460&format=png" width="85" height="85">
-  <img src="https://img.icons8.com/?size=100&id=7r81vNSlvJe6&format=png&color=000000" width="85" height="85">
+  <img src="https://github.com/sarasmello/sarasmello/assets/171968755/72802d66-8283-402e-9dc0-064a7ff09806" width="70" height="70">
 </div>
 
 <div align="center">
