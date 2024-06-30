@@ -21,13 +21,13 @@ https://icons8.com.br/icon/EzPCiQUqWWEa/bootstrap
   <img src="https://img.icons8.com/?size=100&id=g9mmSxx3SwAI&format=png" width="85" height="85">
   <img src="https://img.icons8.com/?size=100&id=108784&format=png" width="85" height="85">
   <img src="https://img.icons8.com/?size=100&id=13460&format=png" width="85" height="85">
-  <img src="https://github.com/sarasmello/sarasmello/assets/171968755/72802d66-8283-402e-9dc0-064a7ff09806" width="70" height="70">
+  <img src="https://github.com/sarasmello/sarasmello/assets/171968755/a9b76fe0-b34c-4146-ac28-2ede9c7ab9ea" width="70" height="80">
 
 </div>
 <h2 align="center">Studying in this moment:</h2>
 <div align="center">
   <img src="https://img.icons8.com/?size=100&id=13460&format=png" width="85" height="85">
-  <img src="https://github.com/sarasmello/sarasmello/assets/171968755/72802d66-8283-402e-9dc0-064a7ff09806" width="70" height="70">
+  <img src="https://github.com/sarasmello/sarasmello/assets/171968755/a9b76fe0-b34c-4146-ac28-2ede9c7ab9ea" width="70" height="80">
 </div>
 
 <div align="center">
