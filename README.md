@@ -2,12 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Sara+Mello;I'm+27+years+old;I+from+Brazil,+BA;I+am+a+student+of+System+Analysis+and+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=sarasmello&show_icons=true&theme=transparent&count_private=true&hide_border=true&title_color=61D14F&icon_color=49B03E&text_color=FFFFFF"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarasmello&theme=transparent&layout=compact&hide_border=true&title_color=61D14F&text_color=FFFFFF" />
-</div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SARASMELLO&bg_color=E6000000&color=d6d6d6&line=ffffff&point=61d14f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sarasmello&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarasmello&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/sarasacrmello"><img src="https://img.icons8.com/?size=100&id=108812&format=png" width="45" height="43"></a>
