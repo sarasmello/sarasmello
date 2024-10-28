@@ -1,12 +1,19 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=61D14F&height=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Sara+Mello;I'm+27+years+old;I+from+Brazil,+BA;I+am+a+student+of+System+Analysis+and+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Sara+Mello;I'm+28+years+old;I+from+Brazil,+BA;I+am+a+student+of+System+Analysis+and+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sarasmello&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarasmello&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+<div align="center">
+  <picture align="center">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sarasmello/sarasmello/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sarasmello/sarasmello/output/github-contribution-grid-snake-dark.svg">
+    <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sarasmello/sarasmello/output/github-contribution-grid-snake.svg">
+    <br>
+  </picture>
+<div>
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/sarasacrmello"><img src="https://img.icons8.com/?size=100&id=108812&format=png" width="45" height="43"></a>
